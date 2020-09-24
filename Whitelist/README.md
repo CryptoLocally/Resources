@@ -45,7 +45,7 @@ Take a picture of yourself holding your ID document (government-issued identity 
 ​
 NOTE: It is important that the picture is bright and clear, and that all the corners of the document are visible.
 ​
-(see example on this repository)
+(see link: https://github.com/CryptoLocally/Resources/blob/master/Whitelist/KYC%20Example.png)
 ​
 3. **Proof of residence**
 ​
