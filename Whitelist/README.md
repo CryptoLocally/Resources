@@ -34,7 +34,7 @@ Write an email to [admin@cryptolocally.com](mailto:admin@cryptolocally.com) cont
 - Country of Citizenship: Hong Kong
 ​
 ​
-1. **Identity Document**
+2. **Identity Document**
 ​
 Take a picture of yourself holding your ID document (government-issued identity cards, driver license or passport) + a piece of paper with the following information on it. Attach this picture in the email:
 ​
@@ -45,11 +45,9 @@ Take a picture of yourself holding your ID document (government-issued identity 
 ​
 NOTE: It is important that the picture is bright and clear, and that all the corners of the document are visible.
 ​
-(see example below)
+(see example on this repository)
 ​
-![](RackMultipart20200923-4-1uv7i2m_html_5e9781fa9614ee9e.png)
-​
-1. **Proof of residence**
+3. **Proof of residence**
 ​
 Finally, please also attach a copy of your Proof of Residence (Bank statement, Utility Bill, Internet/Cable TV/House phone line bill, Tax return, Council tax bill or Government Issued Certifications/Residency) in the same email.
 ​
