@@ -4,7 +4,7 @@ Google Sheets link for results: https://docs.google.com/spreadsheets/d/1-Woy-1-G
 
 In order to secure their allocation, winners will have to submit their KYC information to admin@cryptolocally.com within 12 hours of the announcement. The KYC information will have to match the full name provided in the public sale application. An example of a correct KYC submission has been provided in this GitHub repository. Those that are not on the winner’s list should NOT send KYC information.
 
-KYC Verification
+# KYC Verification
 ​
 In this guide, we will show you how to complete the KYC verification for your GIV public sale whitelist application.
 ​
